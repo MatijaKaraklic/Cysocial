@@ -1,0 +1,1 @@
+svidja mi se dizajn login i register page, ali kada se ulogujem malo jos na dizajnu da poradis I proveri ako imas backend da li ima u bazi idegas@gmail.com
